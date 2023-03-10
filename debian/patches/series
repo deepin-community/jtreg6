@@ -1,0 +1,3 @@
+launchers.patch
+add-jcommander-to-classpath.patch
+use-release-instead-of-source-target.patch
